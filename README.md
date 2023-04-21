@@ -56,4 +56,3 @@ Store all data, including user information, expense entries, and categories, in 
 
 4)Deployment:
 Deployed the website using cyclic.sh
-
